@@ -22,10 +22,9 @@ public class DBConnection {
             try {
                 if (this.getCon() == null || this.getCon().isClosed()) {
                     try {
-                        String url = "jdbc:derby://localhost:1527/C:\\Users\\aldri\\Documents\\NetBeansProjects\\Aldrin Projects\\iSched Derby\\sched_db;";
-                        Class.forName("org.apache.derby.jdbc.ClientDriver");
-//                         String url = "jdbc:derby:sched_db;";
-//                        Class.forName("org.apache.derby.jdbc.EmbeddedDriver");
+                        
+                         String url = "jdbc:derby:sched_db;";
+                        Class.forName("org.apache.derby.jdbc.EmbeddedDriver");
                         setCon(DriverManager.getConnection(url, "aldrin", "aldrin"));
                     } catch (Exception e) {
                         e.printStackTrace();
