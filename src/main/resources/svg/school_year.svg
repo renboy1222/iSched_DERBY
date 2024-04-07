@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   onload="w()"
+   aria-label="Calendar"
+   role="img"
+   viewBox="0 0 512 512"
+   style="font-family:monospace;text-anchor:middle;fill:#677"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="school_year.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.2363281"
+     inkscape:cx="256.80885"
+     inkscape:cy="190.48342"
+     inkscape:window-width="1600"
+     inkscape:window-height="829"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <script
+     type="text/ecmascript"
+     id="script1"><![CDATA[w=()=>{c=0;for(i in e={weekday:"long",month:"short",day:'numeric'})document.getElementsByTagName('text')[c++].textContent=(new Date).toLocaleString(undefined,{[i]:e[i]})}]]></script>
+  <defs
+     id="defs1">
+    <clipPath
+       id="c">
+      <rect
+         width="512"
+         height="512"
+         rx="15%"
+         id="rect1" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#c)"
+     id="g3">
+    <rect
+       width="512"
+       height="512"
+       fill="#dee"
+       id="rect2"
+       inkscape:label="rect2" />
+    <rect
+       width="512"
+       height="180"
+       fill="#d34"
+       id="rect3"
+       inkscape:label="rect3" />
+  </g>
+  <text
+     font-size="256px"
+     x="291.27255"
+     y="365.42526"
+     id="d"
+     style="font-size:215.728px;stroke-width:1.12358"
+     transform="scale(0.89000964,1.1235833)">2024</text>
+  <text
+     xml:space="preserve"
+     style="font-size:204.849px;fill:#cccccc;stroke-width:6.40149"
+     x="275.09949"
+     y="148.34749"
+     id="text5"
+     transform="scale(0.92488713,1.081213)"><tspan
+       id="tspan5"
+       x="275.09949"
+       y="148.34749"
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:204.849px;font-family:monospace;-inkscape-font-specification:'monospace Bold';stroke-width:6.40149">SEM</tspan></text>
+</svg>
